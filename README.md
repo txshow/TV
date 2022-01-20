@@ -8,6 +8,6 @@
 
 4、git add . （将改动添加到暂存区）
 
-5、git commit -m "升级jar"
+5、git commit -m "update jar"
 
 6、git push origin master 将本地更改推送到远程master分支。
