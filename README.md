@@ -20,7 +20,7 @@
 
 2、用命令行模式 恢复到某个版本号：git reset --hard <commit ID号>
 
-3、推送到远程：githubgit push -f -u origin master
+3、推送到远程github：git push -f -u origin master
 
 #ssh key获取
 
