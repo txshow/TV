@@ -4,6 +4,8 @@
 
 2、使用git clone git@github.com:txshow/CatVodTV.git 克隆到本地
 
+      使用git pull --rebase origin master同步到本地
+
 3、编辑项目
 
 4、git add . （将改动添加到暂存区）
