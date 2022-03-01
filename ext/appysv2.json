@@ -43,7 +43,7 @@
     "天神影视": { "url": "https://deity.fun/api.php/app/" },
     "我爱电影": { "url": "http://xg.5imv.net/api.php/app/" },
     "小七影视": { "url": "http://ys.kd60.cn/api.php/app/" },
-    "(无名)": { "url": "http://ccxg.xazhutu.com/xgapp.php/v1/" },
+    "超级剧场": { "url": "http://ccxg.xazhutu.com/xgapp.php/v1/" },
     "免费看": { "url": "https://freekan.vip/mogai_api.php/v1.vod" },
     "暖光影视": { "url": "https://app.bl210.com/api.php/v1.vod" },
     "小极影视": { "url": "http://app.8d8q.com/api.php/v1.vod" },
@@ -74,6 +74,7 @@
     "追剧猫": { "url": "http://tv.kmtvb.com/api.php/v1.vod" },
     "猪猪影院": { "url": "http://app.2zdyy.com/api.php/v1.vod" },
     "渔渔影视": { "url": "http://luobo.yugenye.site/api.php/v1.vod" }
+    "4k屋": { "url": "https://1080p.one/mogai_api.php/v1.vod" }
   },
   "jx": []
 }
