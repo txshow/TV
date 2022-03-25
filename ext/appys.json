@@ -1,4 +1,4 @@
 ﻿{
-  "flag": {"youku": "优酷", "qq": "腾讯", "iqiyi": "爱奇艺", "qiyi": "奇艺", "letv": "乐视", "sohu": "搜狐", "tudou": "土豆", "pptv": "PPTV", "mgtv": "芒果", "wasu": "华数", "m1905": "电影网", "bilibili": "哔哩", "ltnb": "龙腾", "CL4K": "苍蓝", "xigua": "西瓜", "renrenmi": "人人迷", "miaoparty": "喵派①", "miaoparty2": "喵派②", "miaoparty3": "喵派③", "fuckapp": "五毒", "wuduzy": "五毒", "xueren": "雪人", "kbm3u8": "快播", "dbm3u8": "百度", "hnm3u8": "红牛", "wjm3u8": "无尽", "bdxm3u8": "北斗星", "xkys": "星空", "duoduozy": "多多", "kkm3u8": "极速"},
+  "flag": {"youku": "优酷", "qq": "腾讯", "iqiyi": "爱奇艺", "qiyi": "奇艺", "letv": "乐视", "sohu": "搜狐", "tudou": "土豆", "pptv": "PPTV", "mgtv": "芒果", "wasu": "华数", "m1905": "电影网", "bilibili": "哔哩", "ltnb": "龙腾", "CL4K": "苍蓝", "xigua": "西瓜", "renrenmi": "人人迷", "miaoparty": "喵派①", "miaoparty2": "喵派②", "miaoparty3": "喵派③", "fuckapp": "五毒", "wuduzy": "五毒", "xueren": "雪人", "kbm3u8": "快播", "dbm3u8": "百度", "hnm3u8": "红牛", "wjm3u8": "无尽", "bdxm3u8": "北斗星", "xkys": "星空", "duoduozy": "多多", "kkm3u8": "极速", "bjm3u8": "八戒", "jrq": "橘猫"},
   "ban": ["伦理", "情色", "福利", "直播", "电视直播", "电视台", "短视频"]
 }
